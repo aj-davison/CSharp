@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|c:\\users\\andyd\\onedrive\\desktop\\547\\csharp\\interfaces\\interfaces\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|c:\\users\\andyd\\onedrive\\desktop\\547\\csharp\\interfaces\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|c:\\users\\andyd\\onedrive\\desktop\\547\\csharp\\interfaces\\interfaces\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|solutionrelative:shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|c:\\users\\andyd\\onedrive\\desktop\\547\\csharp\\interfaces\\interfaces\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|c:\\users\\andyd\\onedrive\\desktop\\547\\csharp\\interfaces\\interfaces\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC1B3BF-63A6-4AAE-A441-6D3F151E55A5}|Interfaces.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:10:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Shapes.cs",
+              "RelativeDocumentMoniker": "Shapes.cs",
+              "ToolTip": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Shapes.cs",
+              "RelativeToolTip": "Shapes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:03:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:00:32.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:58:50.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "IShape.cs",
+              "ToolTip": "C:\\Users\\andyD\\OneDrive\\Desktop\\547\\csharp\\interfaces\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:57:51.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
